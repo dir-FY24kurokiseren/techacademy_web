@@ -1,4 +1,13 @@
 ul {
         color: blue;
-        
+}
+
+li{
+    list-style:none;
+    padding: 5px 10px;
+    background-color: gold;
+}
+li:hover{
+	color:red;
+	background-color: black;
 }
