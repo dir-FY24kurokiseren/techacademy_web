@@ -1,0 +1,29 @@
+.box {
+    margin: 50px;
+    border: 5px solid pink;
+    padding: 50px;
+    background-color: skyblue;
+    
+header {
+        height: 50px;
+        background-color: #ffdddd;
+}
+}
+#wrapper {
+	height: 100px;
+	display: flex;
+	justify-content: space-between;
+	
+}
+#main {
+  float: right;
+  width: 34%;
+  background-color: #ddffdd;
+}
+aside {
+  float: left
+  width: 78%;
+  background-color: #ffddff;
+}
+
+
